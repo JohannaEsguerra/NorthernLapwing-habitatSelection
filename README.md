@@ -1,10 +1,10 @@
 # NorthernLapwing-habitatSelection
 
-# Master thesis: Habitat selection of the northern lapwing (Vanellus vanellus) during breeding season in Europe.
-# Author: Lady Johanna Esguerra Montaña
+## Master thesis: Habitat selection of the northern lapwing (Vanellus vanellus) during breeding season in Europe.
+## Author: Lady Johanna Esguerra Montaña
 Afiliation: Hochschule für technik stuttgart & BIOECOS (Biodiversity & Ecosystem Services) research group from Helmholtz Centre for Environmental Research – UFZ
 
-# Coding - Landscape metrics and step-selection function (SSF) implementation 
+### Coding - Landscape metrics and step-selection function (SSF) implementation 
 
 localContagionIndex.py: This Python-developed code calculates the Contagion Index from a land use and land cover raster. It analyzes the spatial distribution of classes in the raster and quantifies the degree of aggregation of the present categories. The output is a new raster with the computed index values.
 
@@ -17,7 +17,7 @@ implementationSSFmodel.R: This R code implements Step Selection Function (SSF) m
 Local approach: The landscape metrics code uses moving windows, allowing for the assessment of landscape variability and structure at a local scale. This approach considers a defined area around each cell in the raster, capturing spatial patterns based on the immediate context of each analyzed point.
 
 
-# Sample data: 
+### Sample data: 
 
 CONTAG_sample.tif: Sample of the computed Contagion index raster.
 
