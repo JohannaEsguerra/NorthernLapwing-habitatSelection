@@ -3,7 +3,7 @@
 ## Master thesis: Habitat selection of the northern lapwing (Vanellus vanellus) during breeding season in Europe.
 ## Author: Lady Johanna Esguerra Montaña
 #### Afiliation: Hochschule für technik stuttgart & BIOECOS (Biodiversity & Ecosystem Services) research group from Helmholtz Centre for Environmental Research – UFZ
-#### Abstract:This repository compiles code and sample data used in the methodologies developed in the context of the master’s thesis: Habitat selection of the northern lapwing (Vanellus vanellus) during breeding season in Europe. The study aimed to analyze how landscape structure influences the species’ habitat selection during the breeding season. Its purpose is to share these resources and facilitate their application in other studies.
+#### Abstract:This repository compiles code and sample data used in the methodology developed in the context of the master’s thesis: Habitat selection of the northern lapwing (Vanellus vanellus) during breeding season in Europe. The study aimed to analyze how landscape structure influences the species’ habitat selection during the breeding season. Its purpose is to share these resources and facilitate their application in other studies.
 
 ### Coding - Landscape metrics and step-selection function (SSF) implementation 
 
