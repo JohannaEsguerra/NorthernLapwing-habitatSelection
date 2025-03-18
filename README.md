@@ -5,7 +5,7 @@
 #### Afiliation: Hochschule für technik stuttgart & BIOECOS (Biodiversity & Ecosystem Services) research group from Helmholtz Centre for Environmental Research – UFZ
 #### Abstract:This repository compiles code and sample data used in the methodology developed in the context of the master’s thesis: Habitat selection of the northern lapwing (Vanellus vanellus) during breeding season in Europe. The study aimed to analyze how landscape structure influences the species’ habitat selection during the breeding season. Its purpose is to share these resources and facilitate their application in other studies.
 
-### Coding - Landscape metrics and step-selection function (SSF) implementation 
+### Coding: Landscape metrics and step-selection function (SSF) implementation 
 
 localContagionIndex.py: This Python-developed code calculates the Contagion Index from a land use and land cover raster. It analyzes the spatial distribution of classes in the raster and quantifies the degree of aggregation of the present categories. The output is a new raster with the computed index values.
 
